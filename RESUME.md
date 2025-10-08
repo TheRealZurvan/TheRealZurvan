@@ -56,6 +56,12 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Dock
 - Enhanced query performance by **20×** through **CQRS** with separated read/write databases
 - Built a comprehensive **API gateway** with **load balancing**, **authentication**, and **rate limiting** for **5,000+ daily users**
 
+### Full-stack Developer
+**Science and Technology Park** - *Startup incubator and R&D innovation hub* | *06/2017-08/2021*
+- Launched a new Layer-1 blockchain using the Cosmos SDK with a native token, progressing from testnet to mainnet in 9 months
+- Built and deployed a production-grade block explorer indexing 100% of blocks and transactions; achieved P95 query latency of <800 ms
+- Delivered a noncustodial wallet (web and browser extension); 1000 installs, 100 weekly active users, 0 security incidents
+
 ---
 
 ## Projects
