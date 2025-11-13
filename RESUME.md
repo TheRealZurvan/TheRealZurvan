@@ -9,14 +9,14 @@
 
 ## Professional Summary
 
-Accomplished Lead Software Engineer and Blockchain Developer with a proven track record of designing and implementing high-performance, scalable microservice architectures for the FinTech and DeFi sectors. Expert in full-stack development using Go, React, and Node.js, with deep specialization in blockchain technologies like Cosmos SDK, Ethereum, and Solidity. Demonstrated success in leading engineering teams to deliver cutting-edge solutions for crypto payments, cross-chain exchanges, and staking platforms, achieving significant improvements in performance, uptime, and cost efficiency.
+Accomplished Lead Software Engineer and Blockchain Developer with a proven track record of designing and implementing high-performance, scalable microservice architectures for the FinTech and DeFi sectors. Expert in full-stack development using Go, React, and Node.js, with deep specialization in blockchain technologies like Solana (Rust), Cosmos SDK, Ethereum, and Solidity. Demonstrated success in leading engineering teams to deliver cutting-edge solutions for crypto payments, cross-chain exchanges, and staking platforms, achieving significant improvements in performance, uptime, and cost efficiency.
 
 ---
 
 ## Technical Skills
 
 ### Blockchain
-Cosmos SDK, Hyperledger, Solidity, Rust, Ethereum (EVM), Bitcoin (UTXO), Web3, Zero-knowledge proofs (ZKPs)
+Cosmos SDK, Solana, Hyperledger, Solidity, Rust, Ethereum (EVM), Bitcoin (UTXO), Web3, Zero-knowledge proofs (ZKPs)
 
 ### Backend
 Golang (Go), Node.js, Python, PostgreSQL, Oracle, Elasticsearch, MongoDB, Neo4j, CQRS, DDD, Clean Architecture, Event-driven, Kafka, Temporal, gRPC
@@ -65,6 +65,13 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Dock
 ---
 
 ## Projects
+
+### Exchainge
+*The first marketplace for physical AI data | Solana Hackathon (by Colosseum) | Open Source | 2025*
+- Contributed as a blockchain and backend developer over ~4 months on the Exchainge team
+- Designed and implemented a Solana smart contract in Rust, deployed on mainnet
+- Built a Next.js backend integrating with the on-chain program
+- **Tech Stack:** Rust, Solana, TypeScript, Next.js
 
 ### Trustero
 *Serverless P2P encrypted chat | Personal Project | 2024*
