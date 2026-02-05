@@ -1,5 +1,6 @@
 # Timeline
 
+- **Sep 2025**: Joined Solana Colosseum hackathon and implemented ExchAInge
 - **Jun 2025**: Married
 - **Jun 2024**: Joined Apybara (Coinbase partner) a ZeroKnowledge staking platform
 - **Feb 2024**: Implemented a P2P messenger based on Trystero
