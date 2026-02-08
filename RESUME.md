@@ -1,123 +1,131 @@
 # Mojtaba "Tab" Ahmadi
-**Full Stack Developer & Blockchain Engineer**
+**Senior Backend & Distributed Systems Engineer**
 
-📧 xojtaba@gmail.com | 📱 +968 92212401
-🔗 [LinkedIn](https://linkedin.com/in/tab-ahmadi) | 🐙 [GitHub](https://github.com/tab-sama) | 🤖 [Stackoverflow](https://stackoverflow.com/users/4155138/tab)
-📍 Muscat, Oman
+📧 xojtaba@gmail.com | 
+📱 +968 92212401 |
+🔗 [LinkedIn](https://linkedin.com/in/tab-ahmadi) |
+🐙 [GitHub](https://github.com/TheRealZurvan) | 
+🤖 [Stackoverflow](https://stackoverflow.com/users/4155138/zurvan) |
+📍 Oman
 
 ---
 
 ## Professional Summary
 
-Accomplished Lead Software Engineer and Blockchain Developer with a proven track record of designing and implementing high-performance, scalable microservice architectures for the FinTech and DeFi sectors. Expert in full-stack development using Go, React, and Node.js, with deep specialization in blockchain technologies like Solana (Rust), Cosmos SDK, Ethereum, and Solidity. Demonstrated success in leading engineering teams to deliver cutting-edge solutions for crypto payments, cross-chain exchanges, and staking platforms, achieving significant improvements in performance, uptime, and cost efficiency.
+Senior backend and distributed systems engineer with 8+ years of experience building high‑throughput, fault‑tolerant platforms in production. Specialized in Go‑based microservices, event‑driven architectures, and long‑running workflow orchestration for financial and blockchain systems.
+
+Experienced in designing and operating infrastructure handling millions of transactions, with a strong focus on correctness, observability, and failure resilience. Background spans payments, blockchain infrastructure, and data platforms, with hands‑on ownership from system design through production operations.
+
+Currently focused on senior individual contributor roles building backend and distributed systems at scale.
 
 ---
 
-## Technical Skills
+## Skills
 
-### Blockchain
-Cosmos SDK, Solana, Hyperledger, Solidity, Rust, Ethereum (EVM), Bitcoin (UTXO), Web3, Zero-knowledge proofs (ZKPs)
+### Backend & Distributed Systems
+Golang (Go), Rust, Node.js, Python, Distributed Systems, Microservices, Event‑Driven Architecture, Kafka, RabbitMQ,
+Temporal, gRPC, PostgreSQL, Redis, Elasticsearch, Neo4j, CQRS, API Gateway, Tyk, OAuth2, OIDC, Auth0
 
-### Backend
-Golang (Go), Node.js, Python, PostgreSQL, Oracle, Elasticsearch, MongoDB, Neo4j, CQRS, DDD, Clean Architecture, Event-driven, Kafka, Temporal, gRPC
+### Blockchain Infrastructure
+Cosmos SDK, Tendermint, Validator Operations, EVM, Solidity, Solana, UTXO, Cross‑chain Communication,
+Zero‑Knowledge Proofs (ZKPs), DeFi Protocols, DEX Architecture
 
-### Frontend
-JavaScript, TypeScript, React, Nx, Next.js, Storybook, Selenium, Playwright
-
-### DevOps
-AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Docker Swarm, Git, Linux
+### Infrastructure & Platform
+Kubernetes (K8s), Docker, Helm, Argo CD, GitOps, Terraform, Ansible, AWS, Google Cloud Platform (GCP), DigitalOcean,
+GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux, OWASP
 
 ---
 
-## Professional Experience
+## Experiences
 
-### Senior Blockchain Developer
-**[Apybara (Coinbase partner)](https://www.staking.xyz/)** - *ZeroKnowledge DeFi infrastructure* | *06/2024-06/2025*
-- Built staking tools for a zero-knowledge proof blockchain (**Aleo**), serving over **2,000+ active users**
-- Architected a **microservice** infrastructure using **gRPC** and **Temporal** for inter-service communication, achieving **sub-100ms** response times
-- Enhanced protocol design and security by analyzing major DeFi protocols, including **Lido**, **Uniswap**, and **Pondo**
-- Operated and maintained validators for **Aleo**, **Ethereum**, and **Cosmos** networks with **99.8% uptime**
+### Senior Backend Engineer  
+**[Zion Payment](https://zionpayment.com/)** – Crypto payment solutions | *07/2025–Present*
+- Integrated Polygon, TON, and Polkadot blockchains into the payments platform, increasing daily transactions by **50%**
+- Owned the migration from a custom Saga implementation to **Temporal**, improving developer velocity and reducing MTTR by **3×**
+- Designed and deployed an **API Gateway** using Tyk with Auth0 integration, reducing average API latency by **80%**
+- Deployed and operated **30+ microservices** on Kubernetes (DigitalOcean), maintaining **99.9% availability**
+- Architected core API security modules aligned with **OWASP**, eliminating all critical vulnerabilities identified in penetration tests
 
-### Lead Software Engineer
-**[Zion Payment](https://zionpayment.com/)** - *Crypto payment solutions* | *05/2022-05/2024*
-- Architected and implemented a scalable **microservice** architecture using **Golang**, handling **1,000+ daily transactions**
-- Integrated payment processing with **12+ blockchain networks** (**Ethereum**, **Bitcoin**, **Tron**, **XRP**), achieving **99.9% uptime**
-- Developed and maintained a **React/TypeScript** frontend serving **5,000+ active users**
-- Implemented **CI/CD** pipeline using **GitHub Actions**, reducing deployment time from **2 hours to 15 minutes**
-- Established comprehensive **E2E testing** suite using **Playwright**, achieving **90% test coverage**
-- Led and mentored a **cross-functional team of 8** developers; upskilled **3 junior** developers to mid-level roles
+### Senior Blockchain Engineer  
+**[Apybara (Coinbase partner)](https://www.staking.xyz/)** – Zero‑Knowledge DeFi Infrastructure | *06/2024–06/2025*
+- Designed backend systems supporting a staking platform serving **2,000+ MAUs** within the first quarter
+- Built **gRPC‑based microservices** indexing **2M+ transactions**, reducing operational costs by **20%**
+- Implemented **Temporal** for long‑running blockchain workflows, achieving **100% execution reliability** during chain instability
+- Operated and maintained validators for **Aleo, Ethereum, and Cosmos** with **99.8% uptime**
+- Built and operated a custom **Geth node**, replacing Infura and reducing indexing costs by **75%**
+- Designed an observability stack using **Prometheus, Loki, and Grafana**, reducing incident resolution time by **40%**
 
-### Lead Blockchain Developer
-**[THORSwap](https://www.thorswap.finance/)** - *Cross-chain DEX on THORChain* | *09/2021-04/2022*
-- Migrated legacy **monolith** to **microservices** using **Golang**, achieving **90% cost reduction**
-- Architected and developed blockchain-specific **microservices** for cross-chain swapping functionality
-- Implemented **event-driven** communication using **Kafka** and **Confluent**, indexing **100,000+ daily transactions**
+### Senior Software Engineer  
+**[Zion Payment](https://zionpayment.com/)** – Crypto payment solutions | *05/2022–05/2024*
+- Integrated payment processing across **12+ blockchain networks** (EVM, UTXO, Tron, XRP), achieving **99.9% uptime**
+- Designed a scalable **Go‑based microservice architecture** processing **1,000+ transactions/day**
+- Engineered an **event‑driven system** using RabbitMQ across **30+ services**
+- Implemented the **Saga Pattern** to ensure consistency in distributed transactions
+- Built CI/CD pipelines with **GitHub Actions**, reducing deployment time from **2 hours to 15 minutes**
+- Designed a multi‑layer wallet security architecture, achieving **0 security incidents**
+
+### Blockchain Engineer  
+**[THORSwap](https://www.thorswap.finance/)** – Cross‑chain DEX on THORChain | *09/2021–04/2022*
+- Architected and developed blockchain‑specific microservices enabling cross‑chain swap execution
+- Migrated a legacy monolith to **Golang microservices** using the Strangler Pattern, reducing infrastructure costs by **90%**
+- Implemented **event‑driven communication** using Kafka and Confluent, indexing **100,000+ transactions/day**
 - Applied **event sourcing** for blockchain data persistence, ensuring complete transaction auditability
-- Enhanced query performance by **20×** through **CQRS** with separated read/write databases
-- Built a comprehensive **API gateway** with **load balancing**, **authentication**, and **rate limiting** for **5,000+ daily users**
+- Improved query performance by **20×** using **CQRS** with separated read/write databases
+- Built an API gateway with load balancing, authentication, and rate limiting for **5,000+ daily users**
+- Reduced cloud costs by **10%** by migrating infrastructure from AWS to **GCP**
+- Implemented **GitOps** with ArgoCD for Kubernetes, ensuring 100% environment consistency and self‑service deployments
 
-### Full-stack Developer
-**Science and Technology Park** - *Startup incubator and R&D innovation hub* | *06/2017-08/2021*
-- Launched a new Layer-1 blockchain using the Cosmos SDK with a native token, progressing from testnet to mainnet in 9 months
-- Built and deployed a production-grade block explorer indexing 100% of blocks and transactions; achieved P95 query latency of <800 ms
-- Delivered a noncustodial wallet (web and browser extension); 1000 installs, 100 weekly active users, 0 security incidents
+### Backend Engineer  
+**Science and Technology Park** – Startup Incubator & R&D Hub | *06/2017–08/2021*
+- Launched a **Layer‑1 blockchain** using the **Cosmos SDK**, progressing from testnet to mainnet in **9 months**
+- Built a blockchain explorer indexing **100% of blocks and transactions** with **P95 < 800 ms**
+- Delivered a non‑custodial wallet with **1,000 installs**, **100 WAU**, and **0 security incidents**
+- Scaled indexing infrastructure with a **50‑node Docker Swarm**, handling **10M+ requests/day**
+- Implemented centralized logging and monitoring with the **ELK stack**, reducing MTTR by **80%**
+- Automated provisioning of **50+ servers** using **Ansible**, reducing setup time from days to under an hour
+- Optimized a core graph algorithm with a **100× speedup** by rewriting it from Python to **Rust**
 
 ---
 
 ## Projects
 
-### Exchainge
-*The first marketplace for physical AI data | Solana Hackathon (by Colosseum) | Open Source | 2025*
-- Contributed as a blockchain and backend developer over ~4 months on the Exchainge team
-- Designed and implemented a Solana smart contract in Rust, deployed on mainnet
-- Built a Next.js backend integrating with the on-chain program
-- **Tech Stack:** Rust, Solana, TypeScript, Next.js
+### [Omnivers (ExchAInge)](https://www.omnivers.net/)
+*Decentralized data exchange infrastructure | Open Source | 2025*
+- Designed and implemented a trustless data exchange protocol for verified physical AI datasets
+- Developed core on-chain logic in **Rust (Solana)** to enforce ownership, verification, and settlement guarantees
+- Built off-chain services coordinating with on-chain programs to ensure correctness and secure data delivery
+- Focused on deterministic execution, failure-resilient workflows, and protocol-level invariants
 
-### Trustero
-*Serverless P2P encrypted chat | Personal Project | 2024*
-- Built upon the Trystero library, which facilitates peer-to-peer communication
-- Enables client discovery using BitTorrent and establishes secure connections via the WebRTC protocol
-- **Tech Stack:** TypeScript, React
+**Tech:** Rust, Solana
 
-### NightTrader
-*Multisignature decentralized exchange | Open Source | 2023*
-- Redesigned a functional MVP to resemble a centralized exchange while utilizing non-custodial wallets
-- Enabled non-custodial functionality through the implementation of multi-signature wallets
-- **Tech Stack:** JavaScript, Cryptography
+### [Trustero](https://trustero.pages.dev/auth/login)
+*Peer-to-peer encrypted communication system | Personal Project | 2024*
+- Built a serverless, peer-to-peer messaging system with decentralized client discovery
+- Implemented secure connection establishment using **WebRTC**, with BitTorrent-based signaling mechanisms
+- Addressed NAT traversal, connection reliability, and end-to-end encryption constraints in distributed environments
 
-### Layer
-*Online mind mapping and task manager | Freelance | 2023*
-- On the backend, leveraged Python to create robust data models leveraging a graph structure
-- Neo4j served as the ideal tool for efficiently handling this complex data
-- Implemented a hot-warm-cold architecture utilizing Elastic, which significantly improved our response times
-- **Tech Stack:** Python, Kafka, Elasticsearch, React, Neo4j
+**Tech:** TypeScript, WebRTC
+
+### [NightTrader](https://nighttrader.exchange/)
+*Non-custodial exchange infrastructure | Open Source | 2023*
+- Implemented a non-custodial trading architecture based on **multi-signature authorization**
+- Designed transaction flows ensuring asset safety without centralized custody
+- Focused on cryptographic guarantees, transaction correctness, and adversarial failure scenarios
+
+**Tech:** JavaScript, Cryptography
+
+### [Layer](https://layer.cafe/)
+*Distributed data platform | Freelance | 2023*
+- Designed backend data models using a **graph-based architecture** to support complex relationship queries
+- Implemented an **event-driven pipeline** using **Kafka** for data propagation and indexing
+- Designed and operated a **hot-warm-cold storage architecture** leveraging **Elasticsearch** to optimize latency and cost
+- Built offline-first synchronization mechanisms supporting eventual consistency across clients
+
+**Tech:** Python, Kafka, Elasticsearch, Neo4j
 
 ---
 
 ## Education
 
 ### Bachelor of Science in Computer Science
-**Azad University** | *2017*
-- Focus on software engineering fundamentals and computer science principles
-
----
-
-## Soft Skills
-
-### Problem Solving
-Strong analytical skills demonstrated by enhancing protocol design, improving performance by 20X, and ensuring 99.9% uptime
-
-### Communication & Collaboration
-Excellent communication skills, effectively collaborating with cross-functional teams and partners
-
-### Adaptability & Learning
-Quickly adapts to new technologies and challenges in the fast-paced FinTech and DeFi sectors
-
-### Attention to Detail
-Meticulous approach to code review, security analysis, and ensuring transaction auditability
-
-### Strategic Planning
-Expertise in architecting complex, scalable systems and migrating legacy architectures to modern, efficient microservices
-
-### Leadership & Mentorship
-Proven ability to lead and mentor engineering teams, fostering skill development and a collaborative environment
+**Azad University** | *2015–2017*
