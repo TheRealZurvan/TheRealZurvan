@@ -1,7 +1,7 @@
 # Mojtaba "Tab" Ahmadi
 **Senior Backend & Distributed Systems Engineer**
 
-📧 xojtaba@gmail.com | 
+📧 xojtaba@gmail.com |
 📱 +968 92212401 |
 🔗 [LinkedIn](https://linkedin.com/in/tab-ahmadi) |
 🐙 [GitHub](https://github.com/TheRealZurvan) | 
@@ -38,7 +38,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 
 ## Experiences
 
-### Senior Backend Engineer  
+### Senior Backend Engineer
 **[Zion Payment](https://zionpayment.com/)** – Crypto payment solutions | *07/2025–Present*
 - Integrated Polygon, TON, and Polkadot blockchains into the payments platform, increasing daily transactions by **50%**
 - Owned the migration from a custom Saga implementation to **Temporal**, improving developer velocity and reducing MTTR by **3×**
@@ -46,7 +46,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 - Deployed and operated **30+ microservices** on Kubernetes (DigitalOcean), maintaining **99.9% availability**
 - Architected core API security modules aligned with **OWASP**, eliminating all critical vulnerabilities identified in penetration tests
 
-### Senior Blockchain Engineer  
+### Senior Blockchain Engineer
 **[Apybara (Coinbase partner)](https://www.staking.xyz/)** – Zero‑Knowledge DeFi Infrastructure | *06/2024–06/2025*
 - Designed backend systems supporting a staking platform serving **2,000+ MAUs** within the first quarter
 - Built **gRPC‑based microservices** indexing **2M+ transactions**, reducing operational costs by **20%**
@@ -55,7 +55,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 - Built and operated a custom **Geth node**, replacing Infura and reducing indexing costs by **75%**
 - Designed an observability stack using **Prometheus, Loki, and Grafana**, reducing incident resolution time by **40%**
 
-### Senior Software Engineer  
+### Senior Software Engineer
 **[Zion Payment](https://zionpayment.com/)** – Crypto payment solutions | *05/2022–05/2024*
 - Integrated payment processing across **12+ blockchain networks** (EVM, UTXO, Tron, XRP), achieving **99.9% uptime**
 - Designed a scalable **Go‑based microservice architecture** processing **1,000+ transactions/day**
@@ -64,7 +64,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 - Built CI/CD pipelines with **GitHub Actions**, reducing deployment time from **2 hours to 15 minutes**
 - Designed a multi‑layer wallet security architecture, achieving **0 security incidents**
 
-### Blockchain Engineer  
+### Blockchain Engineer
 **[THORSwap](https://www.thorswap.finance/)** – Cross‑chain DEX on THORChain | *09/2021–04/2022*
 - Architected and developed blockchain‑specific microservices enabling cross‑chain swap execution
 - Migrated a legacy monolith to **Golang microservices** using the Strangler Pattern, reducing infrastructure costs by **90%**
@@ -75,7 +75,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 - Reduced cloud costs by **10%** by migrating infrastructure from AWS to **GCP**
 - Implemented **GitOps** with ArgoCD for Kubernetes, ensuring 100% environment consistency and self‑service deployments
 
-### Backend Engineer  
+### Backend Engineer
 **Science and Technology Park** – Startup Incubator & R&D Hub | *06/2017–08/2021*
 - Launched a **Layer‑1 blockchain** using the **Cosmos SDK**, progressing from testnet to mainnet in **9 months**
 - Built a blockchain explorer indexing **100% of blocks and transactions** with **P95 < 800 ms**
