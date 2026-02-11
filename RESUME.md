@@ -3,7 +3,7 @@
 
 📧 xojtaba@gmail.com |
 📱 +968 92212401 |
-🔗 [LinkedIn](https://linkedin.com/in/tab-ahmadi) |
+🔗 [LinkedIn](https://linkedin.com/in/tab-madi) |
 🐙 [GitHub](https://github.com/TheRealZurvan) | 
 🤖 [Stackoverflow](https://stackoverflow.com/users/4155138/zurvan) |
 📍 Oman
