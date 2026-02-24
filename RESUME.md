@@ -127,7 +127,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 
 ## Education
 
-### Master of Science in Computer Science
+### Master of Science in Computer Science (Online)
 **Heriot-Watt University** | *Expected 2026*
 
 ### Bachelor of Science in Computer Science
