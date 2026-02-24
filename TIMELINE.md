@@ -1,5 +1,6 @@
 # Timeline
 
+- **Feb 2026**: Enrolled in the Heriot-Watt University
 - **Sep 2025**: Joined Solana Colosseum hackathon and implemented ExchAInge
 - **Jun 2025**: Married
 - **Jun 2024**: Joined Apybara (Coinbase partner) a ZeroKnowledge staking platform
