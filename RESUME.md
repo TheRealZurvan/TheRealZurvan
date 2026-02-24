@@ -131,4 +131,4 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 **Heriot-Watt University** | *2024–2026*
 
 ### Bachelor of Science in Computer Science
-**Open Source Society University** | *2015–2017*
+**Azad University** | *2015–2017*
