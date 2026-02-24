@@ -36,7 +36,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 
 ---
 
-## Experiences
+## Experience
 
 ### Senior Backend Engineer
 **[Zion Payment](https://zionpayment.com/)** – Crypto payment solutions | *07/2025–Present*
