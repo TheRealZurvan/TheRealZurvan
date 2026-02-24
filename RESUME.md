@@ -128,4 +128,4 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 ## Education
 
 ### Bachelor of Science in Computer Science
-**Azad University** | *2015–2017*
+**Open Source Society University** | *2015–2017*
