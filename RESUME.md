@@ -1,5 +1,5 @@
-# Mojtaba "Tab" Ahmadi
-**Senior Backend & Distributed Systems Engineer**
+# Tab Madi
+**Senior Software Engineer**
 
 📧 tabmadi@proton.me |
 📱 +968 92212401 |
@@ -38,7 +38,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 
 ## Experience
 
-### Senior Backend Engineer
+### Senior Software Engineer (Rejoined) 
 **[Zion Payment](https://zionpayment.com/)** – Crypto payment solutions | *07/2025–Present*
 - Integrated Polygon, TON, and Polkadot blockchains into the payments platform, increasing daily transactions by **50%**
 - Owned the migration from a custom Saga implementation to **Temporal**, improving developer velocity and reducing MTTR by **3×**
